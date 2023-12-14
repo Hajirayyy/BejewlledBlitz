@@ -1,7 +1,7 @@
 # Bejewelled Blitz Game
 
 ## Overview
-This repository contains the source code for a Bejewelled Blitz game developed as a first-semester project at FAST-NUCES Lahore campus. The game involves swapping three or more jewels of the same type in a row or column to score points and trigger special gems for additional effects. The project utilized C++ programming language and the SFML (Simple and Fast Multimedia Library) version 2.6.1.
+This repository contains the source code for a Bejewelled Blitz game developed as a first-semester project at the FAST-NUCES Lahore campus. The game involves swapping three or more jewels of the same type in a row or column to score points and trigger special gems for additional effects. The project utilized C++ programming language and the SFML (Simple and Fast Multimedia Library) version 2.6.1.
 
 ## Features
 - **Jewel Swapping:** Players can swap jewels using the arrow keys (up, down, right, left) on the keyboard.
@@ -40,3 +40,5 @@ This repository contains the source code for a Bejewelled Blitz game developed a
 ## Acknowledgments
 - Special thanks to the faculty at FAST-NUCES Lahore for their guidance.
 - The project was developed as part of the first-semester coursework.
+## License
+This project is licensed under the MIT License. See the License file for details.
